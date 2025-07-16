@@ -47,7 +47,7 @@ ATM simulator mode with card/PIN simulation
 👤 Author
 
 Amlan Dalai
-[LinkedIn](https://www.linkedin.com/in/amlan-dalai-5b8bb1286/)  
+LinkedIn(https://www.linkedin.com/in/amlan-dalai-5b8bb1286/)  
 
 
 
